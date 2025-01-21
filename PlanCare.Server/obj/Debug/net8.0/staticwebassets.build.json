@@ -1,0 +1,24 @@
+{
+  "Version": 1,
+  "Hash": "FW/2CTIllho9NFTVSZbpvbgN5Ail2tY05oTVEs7f+EQ=",
+  "Source": "PlanCare.Server",
+  "BasePath": "_content/PlanCare.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "D:\\Dev\\PlanCare\\plancare.client\\plancare.client.esproj",
+      "Version": 2,
+      "Source": "plancare.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
