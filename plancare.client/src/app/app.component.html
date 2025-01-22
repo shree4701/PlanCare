@@ -1,24 +1,3 @@
-<p>home works!</p>
-<h1 id="tableLabel">Car Details</h1>
-
-
-<p *ngIf="!cars"><em>Loading... Please refresh once the ASP.NET backend has started. See <a href="https://aka.ms/jspsintegrationangular">https://aka.ms/jspsintegrationangular</a> for more details.</em></p>
-
-<table *ngIf="cars">
-  <thead>
-    <tr>
-      <th>Id</th>
-      <th>Make</th>
-      <th>Model</th>
-      <th>Year</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr *ngFor="let car of cars">
-      <td>{{ car.id }}</td>
-      <td>{{ car.make }}</td>
-      <td>{{ car.model }}</td>
-      <td>{{ car.year }}</td>
-    </tr>
-  </tbody>
-</table>
+<div class="container">
+<router-outlet></router-outlet> <!-- This is where route components are displayed -->
+</div>
