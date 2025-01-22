@@ -1,0 +1,27 @@
+
+
+<p *ngIf="!cars"><em>Loading... Please refresh once the ASP.NET backend has started. See <a href="https://aka.ms/jspsintegrationangular">https://aka.ms/jspsintegrationangular</a> for more details.</em></p>
+
+<div class="container">
+    <h3>Car Details</h3>
+    <div class="table-wrapper">
+      <table class="table table-striped" *ngIf="cars">
+        <thead>
+          <tr>
+            <th>Id</th>
+            <th>Make</th>
+            <th>Model</th>
+            <th>Year</th>
+          </tr>
+        </thead>
+        <tbody>
+            <tr *ngFor="let car of cars">
+                <td>{{ car.id }}</td>
+                <td>{{ car.make }}</td>
+                <td>{{ car.model }}</td>
+                <td>{{ car.year }}</td>
+              </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
