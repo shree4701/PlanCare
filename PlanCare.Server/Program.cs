@@ -1,5 +1,3 @@
-using Microsoft.AspNetCore.Http.Connections;
-using Microsoft.Extensions.Hosting;
 using PlanCare.Server;
 
 var builder = WebApplication.CreateBuilder(args);

@@ -1,6 +1,5 @@
 import { Component, OnInit } from '@angular/core';
 import { CarSignalRService } from '../../CarSignalRService';
-import { Car } from '../../car.model';
 
 @Component({
   selector: 'app-registration',
