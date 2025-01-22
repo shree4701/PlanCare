@@ -10,12 +10,12 @@ using System.Threading.Tasks;
 
 public class CarRegistrationMonitorService : BackgroundService
 {
-    private readonly IHubContext<CarHub> _hubContext;
+    private readonly IHubContext<CarRegistrationHub> _hubContext;
     private readonly ILogger<CarRegistrationMonitorService> _logger;
 
     private List<Car> _cars;
 
-    public CarRegistrationMonitorService(IHubContext<CarHub> hubContext, ILogger<CarRegistrationMonitorService> logger)
+    public CarRegistrationMonitorService(IHubContext<CarRegistrationHub> hubContext, ILogger<CarRegistrationMonitorService> logger)
     {
         _hubContext = hubContext;
         _logger = logger;
@@ -23,8 +23,9 @@ public class CarRegistrationMonitorService : BackgroundService
         // Dummy data for cars
         _cars = new List<Car>
         {
-            new Car { Id = 1, Make = "Toyota", Model = "Corolla", RegistrationExpiryDate = DateTime.Now.AddMonths(1), IsRegistrationValid = true },
-            new Car { Id = 2, Make = "Honda", Model = "Civic", RegistrationExpiryDate = DateTime.Now.AddMonths(-1), IsRegistrationValid = false }
+            new Car { Id = 1, Make = "Toyota", Model = "Corolla", RegistrationExpiryDate = DateTime.Now.AddDays(-1) },
+            new Car { Id = 2, Make = "Honda", Model = "Civic", RegistrationExpiryDate = DateTime.Now.AddDays(2) },
+            new Car { Id = 3, Make = "Toyota", Model = "Prado", RegistrationExpiryDate = DateTime.Now.AddDays(0) },
         };
     }
 
@@ -32,31 +33,13 @@ public class CarRegistrationMonitorService : BackgroundService
     {
         while (!stoppingToken.IsCancellationRequested)
         {
-            // Simulate checking car registration expiry status periodically (every minute)
-            await Task.Delay(TimeSpan.FromMinutes(1), stoppingToken);
-
-            _logger.LogInformation("Checking car registration expiry statuses...");
-
-            // Check for registration expiry and notify clients if there's a change
             foreach (var car in _cars)
             {
-                var currentStatus = car.IsRegistrationValid;
-                if (car.RegistrationExpiryDate < DateTime.Now)
-                {
-                    car.IsRegistrationValid = false;
-                }
-                else
-                {
-                    car.IsRegistrationValid = true;
-                }
-
-                // If the status has changed, notify clients
-                if (currentStatus != car.IsRegistrationValid)
-                {
-                    await _hubContext.Clients.All.SendAsync("ReceiveCarRegistrationStatusUpdate", car);
-                    _logger.LogInformation($"Car {car.Make} {car.Model} registration status updated: {car.IsRegistrationValid}");
-                }
+                bool isExpired = car.IsExpired;
+                await _hubContext.Clients.All.SendAsync("ReceiveCarRegistrationStatus", car.Id, isExpired);
             }
+
+            await Task.Delay(10000, stoppingToken); // Delay for 10 seconds before checking again
         }
     }
 }

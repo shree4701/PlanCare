@@ -1,1 +1,21 @@
-<p>registration works!</p>
+
+
+<div class="container">
+  <h3>Car Registration Status</h3>
+  <div class="table-wrapper">
+    <table class="table table-striped" *ngIf="carStatuses">
+      <thead>
+        <tr>
+          <th>Id</th>
+          <th>Status</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let car of carStatuses">
+          <td>{{ car.carId }}</td>
+          <td>{{ car.isExpired ? 'Expired' : 'Valid' }}</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>

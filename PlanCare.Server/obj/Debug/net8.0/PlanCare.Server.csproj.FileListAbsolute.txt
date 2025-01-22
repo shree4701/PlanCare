@@ -45,3 +45,4 @@ D:\Dev\PlanCare\PlanCare.Server\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool
 D:\Dev\PlanCare\PlanCare.Server\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
 D:\Dev\PlanCare\PlanCare.Server\bin\Debug\net8.0\Newtonsoft.Json.dll
 D:\Dev\PlanCare\PlanCare.Server\bin\Debug\net8.0\System.Net.WebSockets.WebSocketProtocol.dll
+D:\Dev\PlanCare\PlanCare.Server\obj\Debug\net8.0\PlanCare.Server.sourcelink.json

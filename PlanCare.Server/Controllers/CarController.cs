@@ -9,8 +9,9 @@ namespace PlanCare.Server.Controllers
         // Example list of cars (usually, you would get this from a database)
         private static readonly List<Car> cars =
         [
-            new Car { Id = 1, Make = "Toyota", Model = "Corolla", Year = 2010, RegistrationExpiryDate = new DateTime(2026,04,30,0,0,0) },
-            new Car { Id = 2, Make = "Honda", Model = "Civic", Year = 2011, RegistrationExpiryDate = new DateTime(2007,11,05,0,0,0) }
+            new Car { Id = 1, Make = "Toyota", Model = "Corolla", RegistrationExpiryDate = DateTime.Now.AddDays(-1) , Year = 2012},
+            new Car { Id = 2, Make = "Honda", Model = "Civic", RegistrationExpiryDate = DateTime.Now.AddDays(2), Year = 2000},
+            new Car { Id = 3, Make = "Toyota", Model = "Prado", RegistrationExpiryDate = DateTime.Now.AddDays(0), Year = 2024},
         ];
 
         private readonly ILogger<CarController> _logger;

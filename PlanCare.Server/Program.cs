@@ -1,4 +1,5 @@
 using Microsoft.AspNetCore.Http.Connections;
+using Microsoft.Extensions.Hosting;
 using PlanCare.Server;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -9,7 +10,15 @@ builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
-builder.Services.AddSignalR();
+builder.Services.AddSignalR();  // Add SignalR services
+builder.Services.AddHostedService<CarRegistrationMonitorService>();  // Register Background Service
+builder.Services.AddCors(o =>
+{
+    o.AddPolicy("MyPolicy", p => p
+        .WithOrigins("https://localhost:64508")
+        .AllowAnyHeader()
+        .AllowCredentials());
+});
 
 var app = builder.Build();
 
@@ -30,13 +39,17 @@ app.MapControllers();
 
 app.MapFallbackToFile("/index.html");
 
-app.MapHub<CarHub>("/carhub", options =>
-{
-    options.Transports =
-        HttpTransportType.WebSockets |
-        HttpTransportType.LongPolling;
-}
-);
+
+
+
+app.UseCors("MyPolicy"); // Use the policy
+
+app.UseWebSockets();
+
+app.UseHttpsRedirection();
+
+app.MapHub<CarRegistrationHub>("/carRegistrationHub");
+
 
 app.Run();
 

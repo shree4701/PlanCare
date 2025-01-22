@@ -1,0 +1,21 @@
+.container {
+  text-align: center; /* Optional: To center the header */
+}
+
+.table-wrapper {
+  display: flex;
+  justify-content: center; /* Horizontally center */
+  align-items: center; /* Vertically center */
+  height: 20vh; /* Ensure it takes full viewport height */
+}
+
+table {
+  width: 80%; /* Optional: Adjust the width of the table */
+  border-collapse: collapse; /* Optional: makes the table borders collapse into a single line */
+}
+
+th, td {
+  padding: 10px;
+  text-align: left;
+  border: 1px solid #ddd; /* Optional: Adds border to table cells */
+}

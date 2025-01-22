@@ -8,6 +8,6 @@ namespace PlanCare.Server
         public required string Model { get; set; }
         public int Year { get; set; }
         public DateTime RegistrationExpiryDate { get; set; }
-        public bool IsRegistrationValid { get; set; }
+        public bool IsExpired => RegistrationExpiryDate < DateTime.Now;
     }
 }
