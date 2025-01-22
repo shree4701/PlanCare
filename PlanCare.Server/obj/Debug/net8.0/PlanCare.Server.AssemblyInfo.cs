@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PlanCare.Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1fec919ff4c4162a32786d7a94a252482e75bbe6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dd90bb749a807a2ab169aa1f8cb2979b4ec58a44")]
 [assembly: System.Reflection.AssemblyProductAttribute("PlanCare.Server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PlanCare.Server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

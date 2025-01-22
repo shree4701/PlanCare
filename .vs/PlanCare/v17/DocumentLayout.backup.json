@@ -3,84 +3,44 @@
   "WorkspaceRootPath": "D:\\Dev\\PlanCare\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E7EF1760-8EDE-4032-B863-6AAA4F52283D}|plancare.client\\plancare.client.esproj|d:\\dev\\plancare\\plancare.client\\src\\app\\car\\car.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{E7EF1760-8EDE-4032-B863-6AAA4F52283D}|plancare.client\\plancare.client.esproj|solutionrelative:plancare.client\\src\\app\\car\\car.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4DF59DB-0E3C-49B4-8E68-CF2636AFEFB4}|PlanCare.Server\\PlanCare.Server.csproj|d:\\dev\\plancare\\plancare.server\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4DF59DB-0E3C-49B4-8E68-CF2636AFEFB4}|PlanCare.Server\\PlanCare.Server.csproj|solutionrelative:plancare.server\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4DF59DB-0E3C-49B4-8E68-CF2636AFEFB4}|PlanCare.Server\\PlanCare.Server.csproj|d:\\dev\\plancare\\plancare.server\\carregistrationmonitorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4DF59DB-0E3C-49B4-8E68-CF2636AFEFB4}|PlanCare.Server\\PlanCare.Server.csproj|solutionrelative:plancare.server\\carregistrationmonitorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4DF59DB-0E3C-49B4-8E68-CF2636AFEFB4}|PlanCare.Server\\PlanCare.Server.csproj|d:\\dev\\plancare\\plancare.server\\carregistrationhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4DF59DB-0E3C-49B4-8E68-CF2636AFEFB4}|PlanCare.Server\\PlanCare.Server.csproj|solutionrelative:plancare.server\\carregistrationhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E4DF59DB-0E3C-49B4-8E68-CF2636AFEFB4}|PlanCare.Server\\PlanCare.Server.csproj|d:\\dev\\plancare\\plancare.server\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{E4DF59DB-0E3C-49B4-8E68-CF2636AFEFB4}|PlanCare.Server\\PlanCare.Server.csproj|solutionrelative:plancare.server\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E4DF59DB-0E3C-49B4-8E68-CF2636AFEFB4}|PlanCare.Server\\PlanCare.Server.csproj|d:\\dev\\plancare\\plancare.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E4DF59DB-0E3C-49B4-8E68-CF2636AFEFB4}|PlanCare.Server\\PlanCare.Server.csproj|solutionrelative:plancare.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4DF59DB-0E3C-49B4-8E68-CF2636AFEFB4}|PlanCare.Server\\PlanCare.Server.csproj|d:\\dev\\plancare\\plancare.server\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4DF59DB-0E3C-49B4-8E68-CF2636AFEFB4}|PlanCare.Server\\PlanCare.Server.csproj|solutionrelative:plancare.server\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E7EF1760-8EDE-4032-B863-6AAA4F52283D}|plancare.client\\plancare.client.esproj|d:\\dev\\plancare\\plancare.client\\src\\app\\registration\\registration.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E7EF1760-8EDE-4032-B863-6AAA4F52283D}|plancare.client\\plancare.client.esproj|solutionrelative:plancare.client\\src\\app\\registration\\registration.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E7EF1760-8EDE-4032-B863-6AAA4F52283D}|plancare.client\\plancare.client.esproj|d:\\dev\\plancare\\plancare.client\\src\\app\\registration\\registration.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{E7EF1760-8EDE-4032-B863-6AAA4F52283D}|plancare.client\\plancare.client.esproj|solutionrelative:plancare.client\\src\\app\\registration\\registration.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E7EF1760-8EDE-4032-B863-6AAA4F52283D}|plancare.client\\plancare.client.esproj|d:\\dev\\plancare\\plancare.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E7EF1760-8EDE-4032-B863-6AAA4F52283D}|plancare.client\\plancare.client.esproj|solutionrelative:plancare.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E7EF1760-8EDE-4032-B863-6AAA4F52283D}|plancare.client\\plancare.client.esproj|d:\\dev\\plancare\\plancare.client\\src\\carsignalrservice.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{E7EF1760-8EDE-4032-B863-6AAA4F52283D}|plancare.client\\plancare.client.esproj|solutionrelative:plancare.client\\src\\carsignalrservice.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E7EF1760-8EDE-4032-B863-6AAA4F52283D}|plancare.client\\plancare.client.esproj|d:\\dev\\plancare\\plancare.client\\src\\app\\car\\car.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{E7EF1760-8EDE-4032-B863-6AAA4F52283D}|plancare.client\\plancare.client.esproj|solutionrelative:plancare.client\\src\\app\\car\\car.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E7EF1760-8EDE-4032-B863-6AAA4F52283D}|plancare.client\\plancare.client.esproj|d:\\dev\\plancare\\plancare.client\\src\\app\\registration\\registration.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{E7EF1760-8EDE-4032-B863-6AAA4F52283D}|plancare.client\\plancare.client.esproj|solutionrelative:plancare.client\\src\\app\\registration\\registration.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E7EF1760-8EDE-4032-B863-6AAA4F52283D}|plancare.client\\plancare.client.esproj|d:\\dev\\plancare\\plancare.client\\src\\app\\car\\car.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E7EF1760-8EDE-4032-B863-6AAA4F52283D}|plancare.client\\plancare.client.esproj|solutionrelative:plancare.client\\src\\app\\car\\car.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E7EF1760-8EDE-4032-B863-6AAA4F52283D}|plancare.client\\plancare.client.esproj|d:\\dev\\plancare\\plancare.client\\src\\proxy.conf.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{E7EF1760-8EDE-4032-B863-6AAA4F52283D}|plancare.client\\plancare.client.esproj|solutionrelative:plancare.client\\src\\proxy.conf.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E7EF1760-8EDE-4032-B863-6AAA4F52283D}|plancare.client\\plancare.client.esproj|d:\\dev\\plancare\\plancare.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{E7EF1760-8EDE-4032-B863-6AAA4F52283D}|plancare.client\\plancare.client.esproj|solutionrelative:plancare.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{E4DF59DB-0E3C-49B4-8E68-CF2636AFEFB4}|PlanCare.Server\\PlanCare.Server.csproj|d:\\dev\\plancare\\plancare.server\\carregistrationmonitorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4DF59DB-0E3C-49B4-8E68-CF2636AFEFB4}|PlanCare.Server\\PlanCare.Server.csproj|solutionrelative:plancare.server\\carregistrationmonitorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E7EF1760-8EDE-4032-B863-6AAA4F52283D}|plancare.client\\plancare.client.esproj|d:\\dev\\plancare\\plancare.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{E7EF1760-8EDE-4032-B863-6AAA4F52283D}|plancare.client\\plancare.client.esproj|solutionrelative:plancare.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{E7EF1760-8EDE-4032-B863-6AAA4F52283D}|plancare.client\\plancare.client.esproj|d:\\dev\\plancare\\plancare.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{E7EF1760-8EDE-4032-B863-6AAA4F52283D}|plancare.client\\plancare.client.esproj|solutionrelative:plancare.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E7EF1760-8EDE-4032-B863-6AAA4F52283D}|plancare.client\\plancare.client.esproj|d:\\dev\\plancare\\plancare.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{E7EF1760-8EDE-4032-B863-6AAA4F52283D}|plancare.client\\plancare.client.esproj|solutionrelative:plancare.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E7EF1760-8EDE-4032-B863-6AAA4F52283D}|plancare.client\\plancare.client.esproj|d:\\dev\\plancare\\plancare.client\\src\\car.model.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{E7EF1760-8EDE-4032-B863-6AAA4F52283D}|plancare.client\\plancare.client.esproj|solutionrelative:plancare.client\\src\\car.model.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{E7EF1760-8EDE-4032-B863-6AAA4F52283D}|plancare.client\\plancare.client.esproj|d:\\dev\\plancare\\plancare.client\\src\\app\\app.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{E7EF1760-8EDE-4032-B863-6AAA4F52283D}|plancare.client\\plancare.client.esproj|solutionrelative:plancare.client\\src\\app\\app.component.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E7EF1760-8EDE-4032-B863-6AAA4F52283D}|plancare.client\\plancare.client.esproj|d:\\dev\\plancare\\plancare.client\\src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{E7EF1760-8EDE-4032-B863-6AAA4F52283D}|plancare.client\\plancare.client.esproj|solutionrelative:plancare.client\\src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{E7EF1760-8EDE-4032-B863-6AAA4F52283D}|plancare.client\\plancare.client.esproj|d:\\dev\\plancare\\plancare.client\\src\\app\\registration\\registration.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{E7EF1760-8EDE-4032-B863-6AAA4F52283D}|plancare.client\\plancare.client.esproj|solutionrelative:plancare.client\\src\\app\\registration\\registration.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E7EF1760-8EDE-4032-B863-6AAA4F52283D}|plancare.client\\plancare.client.esproj|d:\\dev\\plancare\\plancare.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E7EF1760-8EDE-4032-B863-6AAA4F52283D}|plancare.client\\plancare.client.esproj|solutionrelative:plancare.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E7EF1760-8EDE-4032-B863-6AAA4F52283D}|plancare.client\\plancare.client.esproj|d:\\dev\\plancare\\plancare.client\\src\\app\\car\\car.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{E7EF1760-8EDE-4032-B863-6AAA4F52283D}|plancare.client\\plancare.client.esproj|solutionrelative:plancare.client\\src\\app\\car\\car.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7EF1760-8EDE-4032-B863-6AAA4F52283D}|plancare.client\\plancare.client.esproj|d:\\dev\\plancare\\plancare.client\\src\\app\\car\\car.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7EF1760-8EDE-4032-B863-6AAA4F52283D}|plancare.client\\plancare.client.esproj|solutionrelative:plancare.client\\src\\app\\car\\car.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -95,53 +55,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "car.component.ts",
-              "DocumentMoniker": "D:\\Dev\\PlanCare\\plancare.client\\src\\app\\car\\car.component.ts",
-              "RelativeDocumentMoniker": "plancare.client\\src\\app\\car\\car.component.ts",
-              "ToolTip": "D:\\Dev\\PlanCare\\plancare.client\\src\\app\\car\\car.component.ts",
-              "RelativeToolTip": "plancare.client\\src\\app\\car\\car.component.ts",
-              "ViewState": "AgIAABEAAAAAAAAAAAAQwA4AAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-01-22T06:43:24.196Z",
+              "Title": ".gitignore",
+              "DocumentMoniker": "D:\\Dev\\PlanCare\\PlanCare.Server\\.gitignore",
+              "RelativeDocumentMoniker": "PlanCare.Server\\.gitignore",
+              "ToolTip": "D:\\Dev\\PlanCare\\PlanCare.Server\\.gitignore",
+              "RelativeToolTip": "PlanCare.Server\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-22T12:10:44.096Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "registration.component.html",
-              "DocumentMoniker": "D:\\Dev\\PlanCare\\plancare.client\\src\\app\\registration\\registration.component.html",
-              "RelativeDocumentMoniker": "plancare.client\\src\\app\\registration\\registration.component.html",
-              "ToolTip": "D:\\Dev\\PlanCare\\plancare.client\\src\\app\\registration\\registration.component.html",
-              "RelativeToolTip": "plancare.client\\src\\app\\registration\\registration.component.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-01-22T01:30:28.329Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "car.component.css",
-              "DocumentMoniker": "D:\\Dev\\PlanCare\\plancare.client\\src\\app\\car\\car.component.css",
-              "RelativeDocumentMoniker": "plancare.client\\src\\app\\car\\car.component.css",
-              "ToolTip": "D:\\Dev\\PlanCare\\plancare.client\\src\\app\\car\\car.component.css",
-              "RelativeToolTip": "plancare.client\\src\\app\\car\\car.component.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-01-22T08:33:08.254Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "app.component.html",
-              "DocumentMoniker": "D:\\Dev\\PlanCare\\plancare.client\\src\\app\\app.component.html",
-              "RelativeDocumentMoniker": "plancare.client\\src\\app\\app.component.html",
-              "ToolTip": "D:\\Dev\\PlanCare\\plancare.client\\src\\app\\app.component.html",
-              "RelativeToolTip": "plancare.client\\src\\app\\app.component.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-01-21T09:38:28.954Z",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Dev\\PlanCare\\PlanCare.Server\\Program.cs",
+              "RelativeDocumentMoniker": "PlanCare.Server\\Program.cs",
+              "ToolTip": "D:\\Dev\\PlanCare\\PlanCare.Server\\Program.cs",
+              "RelativeToolTip": "PlanCare.Server\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T12:06:03.486Z",
               "EditorCaption": ""
             },
             {
@@ -152,61 +86,22 @@
               "RelativeDocumentMoniker": "PlanCare.Server\\CarRegistrationMonitorService.cs",
               "ToolTip": "D:\\Dev\\PlanCare\\PlanCare.Server\\CarRegistrationMonitorService.cs",
               "RelativeToolTip": "PlanCare.Server\\CarRegistrationMonitorService.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAB0AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T06:23:59.109Z",
+              "WhenOpened": "2025-01-22T12:05:42.371Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Car.cs",
-              "DocumentMoniker": "D:\\Dev\\PlanCare\\PlanCare.Server\\Car.cs",
-              "RelativeDocumentMoniker": "PlanCare.Server\\Car.cs",
-              "ToolTip": "D:\\Dev\\PlanCare\\PlanCare.Server\\Car.cs",
-              "RelativeToolTip": "PlanCare.Server\\Car.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T06:24:22.646Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CarController.cs",
-              "DocumentMoniker": "D:\\Dev\\PlanCare\\PlanCare.Server\\Controllers\\CarController.cs",
-              "RelativeDocumentMoniker": "PlanCare.Server\\Controllers\\CarController.cs",
-              "ToolTip": "D:\\Dev\\PlanCare\\PlanCare.Server\\Controllers\\CarController.cs",
-              "RelativeToolTip": "PlanCare.Server\\Controllers\\CarController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAB9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T05:10:21.054Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CarRegistrationHub.cs",
-              "DocumentMoniker": "D:\\Dev\\PlanCare\\PlanCare.Server\\CarRegistrationHub.cs",
-              "RelativeDocumentMoniker": "PlanCare.Server\\CarRegistrationHub.cs",
-              "ToolTip": "D:\\Dev\\PlanCare\\PlanCare.Server\\CarRegistrationHub.cs",
-              "RelativeToolTip": "PlanCare.Server\\CarRegistrationHub.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T06:21:38.938Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Dev\\PlanCare\\PlanCare.Server\\Program.cs",
-              "RelativeDocumentMoniker": "PlanCare.Server\\Program.cs",
-              "ToolTip": "D:\\Dev\\PlanCare\\PlanCare.Server\\Program.cs",
-              "RelativeToolTip": "PlanCare.Server\\Program.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T06:26:05.215Z",
+              "DocumentIndex": 6,
+              "Title": "app.component.spec.ts",
+              "DocumentMoniker": "D:\\Dev\\PlanCare\\plancare.client\\src\\app\\app.component.spec.ts",
+              "RelativeDocumentMoniker": "plancare.client\\src\\app\\app.component.spec.ts",
+              "ToolTip": "D:\\Dev\\PlanCare\\plancare.client\\src\\app\\app.component.spec.ts",
+              "RelativeToolTip": "plancare.client\\src\\app\\app.component.spec.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-01-22T12:00:26.019Z",
               "EditorCaption": ""
             },
             {
@@ -217,134 +112,75 @@
               "RelativeDocumentMoniker": "plancare.client\\src\\app\\registration\\registration.component.ts",
               "ToolTip": "D:\\Dev\\PlanCare\\plancare.client\\src\\app\\registration\\registration.component.ts",
               "RelativeToolTip": "plancare.client\\src\\app\\registration\\registration.component.ts",
-              "ViewState": "AgIAABUAAAAAAAAAAAAswC0AAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-01-22T02:00:43.218Z",
+              "WhenOpened": "2025-01-22T12:00:11.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "car.component.ts",
+              "DocumentMoniker": "D:\\Dev\\PlanCare\\plancare.client\\src\\app\\car\\car.component.ts",
+              "RelativeDocumentMoniker": "plancare.client\\src\\app\\car\\car.component.ts",
+              "ToolTip": "D:\\Dev\\PlanCare\\plancare.client\\src\\app\\car\\car.component.ts",
+              "RelativeToolTip": "plancare.client\\src\\app\\car\\car.component.ts",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAC4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-01-22T11:59:27.151Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "CarSignalRService.ts",
-              "DocumentMoniker": "D:\\Dev\\PlanCare\\plancare.client\\src\\CarSignalRService.ts",
-              "RelativeDocumentMoniker": "plancare.client\\src\\CarSignalRService.ts",
-              "ToolTip": "D:\\Dev\\PlanCare\\plancare.client\\src\\CarSignalRService.ts",
-              "RelativeToolTip": "plancare.client\\src\\CarSignalRService.ts",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAAGAAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-01-22T02:31:34.233Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "registration.component.css",
-              "DocumentMoniker": "D:\\Dev\\PlanCare\\plancare.client\\src\\app\\registration\\registration.component.css",
-              "RelativeDocumentMoniker": "plancare.client\\src\\app\\registration\\registration.component.css",
-              "ToolTip": "D:\\Dev\\PlanCare\\plancare.client\\src\\app\\registration\\registration.component.css",
-              "RelativeToolTip": "plancare.client\\src\\app\\registration\\registration.component.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-01-22T08:33:13.877Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
               "Title": "car.component.html",
               "DocumentMoniker": "D:\\Dev\\PlanCare\\plancare.client\\src\\app\\car\\car.component.html",
               "RelativeDocumentMoniker": "plancare.client\\src\\app\\car\\car.component.html",
               "ToolTip": "D:\\Dev\\PlanCare\\plancare.client\\src\\app\\car\\car.component.html",
               "RelativeToolTip": "plancare.client\\src\\app\\car\\car.component.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-01-22T07:07:30.004Z",
+              "WhenOpened": "2025-01-22T11:59:05.515Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "car.model.ts",
-              "DocumentMoniker": "D:\\Dev\\PlanCare\\plancare.client\\src\\car.model.ts",
-              "RelativeDocumentMoniker": "plancare.client\\src\\car.model.ts",
-              "ToolTip": "D:\\Dev\\PlanCare\\plancare.client\\src\\car.model.ts",
-              "RelativeToolTip": "plancare.client\\src\\car.model.ts",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-01-21T08:43:17.8Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "proxy.conf.js",
-              "DocumentMoniker": "D:\\Dev\\PlanCare\\plancare.client\\src\\proxy.conf.js",
-              "RelativeDocumentMoniker": "plancare.client\\src\\proxy.conf.js",
-              "ToolTip": "D:\\Dev\\PlanCare\\plancare.client\\src\\proxy.conf.js",
-              "RelativeToolTip": "plancare.client\\src\\proxy.conf.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-01-22T07:34:40.148Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 5,
               "Title": "app.component.ts",
               "DocumentMoniker": "D:\\Dev\\PlanCare\\plancare.client\\src\\app\\app.component.ts",
               "RelativeDocumentMoniker": "plancare.client\\src\\app\\app.component.ts",
               "ToolTip": "D:\\Dev\\PlanCare\\plancare.client\\src\\app\\app.component.ts",
               "RelativeToolTip": "plancare.client\\src\\app\\app.component.ts",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-01-21T09:34:27.157Z"
+              "WhenOpened": "2025-01-22T11:58:41.18Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 4,
               "Title": "app-routing.module.ts",
               "DocumentMoniker": "D:\\Dev\\PlanCare\\plancare.client\\src\\app\\app-routing.module.ts",
               "RelativeDocumentMoniker": "plancare.client\\src\\app\\app-routing.module.ts",
               "ToolTip": "D:\\Dev\\PlanCare\\plancare.client\\src\\app\\app-routing.module.ts",
               "RelativeToolTip": "plancare.client\\src\\app\\app-routing.module.ts",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-01-21T09:24:50.25Z"
+              "WhenOpened": "2025-01-22T11:58:37.103Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 3,
               "Title": "app.module.ts",
               "DocumentMoniker": "D:\\Dev\\PlanCare\\plancare.client\\src\\app\\app.module.ts",
               "RelativeDocumentMoniker": "plancare.client\\src\\app\\app.module.ts",
               "ToolTip": "D:\\Dev\\PlanCare\\plancare.client\\src\\app\\app.module.ts",
               "RelativeToolTip": "plancare.client\\src\\app\\app.module.ts",
-              "ViewState": "AgIAABEAAAAAAAAAAAAqwCkAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-01-21T06:06:23.353Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "index.html",
-              "DocumentMoniker": "D:\\Dev\\PlanCare\\plancare.client\\src\\index.html",
-              "RelativeDocumentMoniker": "plancare.client\\src\\index.html",
-              "ToolTip": "D:\\Dev\\PlanCare\\plancare.client\\src\\index.html",
-              "RelativeToolTip": "plancare.client\\src\\index.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-01-21T10:18:55.118Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "main.ts",
-              "DocumentMoniker": "D:\\Dev\\PlanCare\\plancare.client\\src\\main.ts",
-              "RelativeDocumentMoniker": "plancare.client\\src\\main.ts",
-              "ToolTip": "D:\\Dev\\PlanCare\\plancare.client\\src\\main.ts",
-              "RelativeToolTip": "plancare.client\\src\\main.ts",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-01-21T10:22:44.904Z"
+              "WhenOpened": "2025-01-22T11:58:09.847Z",
+              "EditorCaption": ""
             }
           ]
         }
